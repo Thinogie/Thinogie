@@ -9,7 +9,7 @@
 &nbsp;
 
 <p align='center'><b>A passionate designer and developer with a background in software engineering and a creative mindset. I love turning ideas into user-centered solutions through thoughtful design and clean code. I'm always eager to learn, collaborate, and build meaningful products that make a difference.</b></p>
-<p align="center"><b>Explore my UI/UX design portfolio on<a href="https://www.behance.net/Thinogie-Jayasundara" target="_blank">https://www.behance.net/Thinogie-Jayasundara</a></b></p>
+<p align="center"><b>Explore my UI/UX design portfolio on <a href="https://www.behance.net/Thinogie-Jayasundara" target="_blank">https://www.behance.net/Thinogie-Jayasundara</a></b></p>
 &nbsp;
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thinogie&" alt="thinogie" /></p>
